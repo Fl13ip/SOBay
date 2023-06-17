@@ -1,28 +1,3 @@
-// Sistemas Operativos 22/23
-// Biblioteca de gestão de utilziadores para o trabalho prático
-// Uso exclusivo à unidade curricular referida acima
-// Não alterar este ficheiro (o trabalho será recompilado com o original)
-
-// Instruções
-// 1) ver os comentários neste ficheiro para saber:
-//    - o nome das funções
-//    - o objetivo das funções
-//    - os parâmetros (tipos de dados e objetivo)
-//    - os códigos de retorno
-//
-//   -> os detalhes das funções aqui apresentados sobrepõem-se ao que tiver sido
-//      indicado anteriormente, correspondendo ao que efetivamente está implementado
-//      na biblioteca fornecida
-//
-// 2) Identificar a versao correta do ficheiro binário (".o") à arquitetura
-//    usada no projeto (linux x64 / Apple/Intel / Apple/M1)
-//   -> Outra arquitetura? falar com os docentes assim que possível
-//
-//   -> Mudar o nome do binário escolhido no ponto anterior
-//      >>> apagar os parentesis e o que lá está dentro: o nome do ficheiro
-//          deverá ficar apenas users_lib.o
-//
-// 3) incluir este .h e o binário no projeto
 
 #ifndef _USERS_H_
 #define _USERS_H_
